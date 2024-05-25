@@ -1,0 +1,6 @@
+1. create a html for ordered list and unordered list with multiple list styles.
+2. create a simple application using all the semantic elements
+3. create a section which contains    headings & paragraphs and add background color to section and different colors to heading and paragraph.
+4. create few examples for block elements and inline elements
+5. write a examples using style attributes
+6. create a application that have navigation section, and user can navigate to other pages.
