@@ -1,0 +1,50 @@
+1. *Reverse a String*: Write a function to reverse a given string.
+2. *Palindrome Check*: Check if a given string is a palindrome.
+3. *Flatten an Array*: Flatten a nested array into a single array.
+4. *Find the Largest Number in an Array*: Write a function to find the largest number in an array.
+5. *Remove Duplicates from an Array*: Remove duplicate values from an array.
+6. *FizzBuzz*: Print numbers from 1 to 100 with specific rules for multiples of 3 and 5.
+7. *Anagram Check*: Check if two strings are anagrams of each other.
+8. *Find the Missing Number*: Find the missing number in a given array of integers from 1 to n.
+9. *Sum of Array*: Calculate the sum of all numbers in an array.
+10. *Deep Clone an Object*: Write a function to deep clone an object.
+11. *Capitalize the First Letter of Each Word*: Write a function to capitalize the first letter of each word in a string.
+12. *Count Vowels in a String*: Write a function to count the number of vowels in a given string.
+13. *Longest Word in a String*: Find the longest word in a given string.
+14. *Binary Search*: Implement binary search on a sorted array.
+15. *Merge Two Sorted Arrays*: Write a function to merge two sorted arrays into a single sorted array.
+16. *Rotate an Array*: Rotate an array by k positions.
+17. *Find the Intersection of Two Arrays*: Find the intersection of two arrays.
+18. *Sum of Digits*: Write a function to find the sum of digits of a number.
+19. *Fibonacci Sequence*: Generate the first n numbers of the Fibonacci sequence.
+20. *Factorial of a Number*: Write a function to find the factorial of a number.
+21. *Check for Prime Number*: Write a function to check if a number is prime.
+22. *Find the Second Largest Number in an Array*: Write a function to find the second largest number in an array.
+23. *Remove a Specific Element from an Array*: Write a function to remove a specific element from an array.
+24. *Count Occurrences of a Character in a String*: Write a function to count the occurrences of a specific character in a string.
+25. *Check if a Number is Even or Odd*: Write a function to check if a number is even or odd.
+26. *Implement a Stack*: Implement a stack data structure with push, pop, and peek methods.
+27. *Implement a Queue*: Implement a queue data structure with enqueue and dequeue methods.
+28. *Find the Median of an Array*: Write a function to find the median of an array.
+29. *Check for Balanced Parentheses*: Write a function to check if a string has balanced parentheses.
+30. *Generate Random Numbers*: Write a function to generate a random number within a specified range.
+31. *Group Anagrams*: Write a function to group an array of strings into anagrams.
+32. *Longest Substring Without Repeating Characters*: Find the length of the longest substring without repeating characters.
+33. *Find the Majority Element*: Find the element that appears more than half the times in an array.
+34. *Implement Merge Sort*: Implement the merge sort algorithm.
+35. *Implement Quick Sort*: Implement the quick sort algorithm.
+36. *Find All Permutations of a String*: Write a function to find all permutations of a given string.
+37. *Convert Number to Roman Numerals*: Write a function to convert a number to its Roman numeral representation.
+38. *Check if Two Strings are Rotations of Each Other*: Write a function to check if two strings are rotations of each other.
+39. *Find the First Non-Repeating Character*: Write a function to find the first non-repeating character in a string.
+40. *Remove All Whitespaces from a String*: Write a function to remove all whitespaces from a string.
+41. *Find the Longest Increasing Subsequence*: Write a function to find the longest increasing subsequence in an array.
+42. *Check for Substring*: Write a function to check if a string contains another substring.
+43. *Sum of Two Numbers*: Write a function to find two numbers in an array that sum up to a target value.
+44. *Find the GCD of Two Numbers*: Write a function to find the greatest common divisor (GCD) of two numbers.
+45. *Find the LCM of Two Numbers*: Write a function to find the least common multiple (LCM) of two numbers.
+46. *Convert a String to an Integer*: Write a function to convert a string to an integer without using built-in parse functions.
+47. *Binary to Decimal Conversion*: Write a function to convert a binary number to a decimal number.
+48. *Decimal to Binary Conversion*: Write a function to convert a decimal number to a binary number.
+49. *Check for Palindromic Substring*: Write a function to check if a given substring is a palindrome.
+50. *Merge Intervals*: Write a function to merge overlapping intervals in an array of intervals.
